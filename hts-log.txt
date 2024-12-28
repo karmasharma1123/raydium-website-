@@ -1,0 +1,25 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 28 Dec 2024 11:28:37 at https://coins-raydium.web.app/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC1%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://coins-raydium.web.app/ -O1 "C:\Users\slamm\OneDrive\Documents\raydium\crypto" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:28:39	Warning: 	File not parsed, looks like binary: https://coins-raydium.web.app/robots.txt
+11:28:41	Error: 	"Forbidden" (403) at link https://kit.fontawesome.com/78d167673c.js (from https://coins-raydium.web.app/app/)
+11:28:41	Warning: 	File not parsed, looks like binary: https://coins-raydium.web.app/app/assets/lg(1)
+11:28:41	Warning: 	File not parsed, looks like binary: https://coins-raydium.web.app/app/assets/lg(2)
+11:28:41	Warning: 	File not parsed, looks like binary: https://coins-raydium.web.app/app/assets/28189800
+11:28:41	Warning: 	File not parsed, looks like binary: https://coins-raydium.web.app/app/assets/49746116
+11:28:41	Warning: 	File not parsed, looks like binary: https://coins-raydium.web.app/app/assets/lg(3)
+11:28:41	Warning: 	File not parsed, looks like binary: https://coins-raydium.web.app/app/assets/lg(4)
+11:28:41	Warning: 	File not parsed, looks like binary: https://coins-raydium.web.app/app/assets/lg(5)
+11:28:41	Warning: 	File not parsed, looks like binary: https://coins-raydium.web.app/app/assets/lg(6)
+11:28:41	Warning: 	File not parsed, looks like binary: https://coins-raydium.web.app/app/assets/44049579
+11:28:41	Warning: 	File not parsed, looks like binary: https://coins-raydium.web.app/app/assets/images
+11:28:41	Warning: 	File not parsed, looks like binary: https://coins-raydium.web.app/app/assets/ofbdehdu4sju07vlltgf
+11:28:41	Warning: 	File not parsed, looks like binary: https://coins-raydium.web.app/app/assets/images(1)
+11:28:41	Warning: 	File not parsed, looks like binary: https://coins-raydium.web.app/app/assets/lg(7)
+11:28:45	Error: 	"Forbidden" (403) at link https://icons-for-free.com/download-icon-cryptocurrency+icons+++black+adx-1324448926854794233_512.png (from https://coins-raydium.web.app/app/load.html)
+18:00:36	Panic: 	Too many URLs, giving up..(>100000)
